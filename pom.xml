@@ -68,13 +68,13 @@
 
 	<repositories>
   	<repository>
-             <id>public-atomist-release</id>
-            <name>Atomist Release</name>
-             <url>https://atomist.jfrog.io/atomist/libs-release</url>
-             <snapshots>
-                <enabled>false</enabled>
-             </snapshots>
-         </repository>
+        <id>public-atomist-release</id>
+        <name>Atomist Release</name>
+        <url>https://atomist.jfrog.io/atomist/libs-release</url>
+           <snapshots>
+              <enabled>false</enabled>
+           </snapshots>
+    </repository>
  </repositories>
 
 

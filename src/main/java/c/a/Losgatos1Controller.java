@@ -9,6 +9,11 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 @RestController
 class Losgatos1Controller {
 
+    @RequestMapping(method = GET, path = "/")
+    public String root() {
+        return "App running: Served from " + getClass().getName();
+    }
+
     @RequestMapping(method = GET, path = "hello/{name}")
     public String person(@PathVariable String name) {
         return "Hello " + name + "!";
