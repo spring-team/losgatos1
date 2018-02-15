@@ -321,3 +321,5 @@ I come from the loving space of my heart, and I know that love opens all doors.
 I believe in you. You can do the thing!
 
 It’s only a thought, and a thought can be changed.
+
+It’s only a thought, and a thought can be changed.
