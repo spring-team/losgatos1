@@ -401,3 +401,5 @@ You're good enough, you're smart enough, and doggone it, people like you.
 You're good enough, you're smart enough, and doggone it, people like you.
 
 You're good enough, you're smart enough, and doggone it, people like you.
+
+Deep at the center of my being is an infinite well of love.
