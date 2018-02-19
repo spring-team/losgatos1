@@ -481,3 +481,5 @@ As I say yes to life, life says yes to me.
 I come from the loving space of my heart, and I know that love opens all doors.
 
 You are the delta in what you do, not the things you did in the past
+
+I believe in you. You can do the thing!
