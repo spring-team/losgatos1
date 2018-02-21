@@ -541,3 +541,5 @@ I come from the loving space of my heart, and I know that love opens all doors.
 You are the delta in what you do, not the things you did in the past
 
 You're good enough, you're smart enough, and doggone it, people like you.
+
+Deep at the center of my being is an infinite well of love.
