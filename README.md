@@ -573,3 +573,5 @@ I believe in you. You can do the thing!
 You're good enough, you're smart enough, and doggone it, people like you.
 
 It’s only a thought, and a thought can be changed.
+
+It’s only a thought, and a thought can be changed.
