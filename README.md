@@ -543,3 +543,5 @@ You are the delta in what you do, not the things you did in the past
 You're good enough, you're smart enough, and doggone it, people like you.
 
 Deep at the center of my being is an infinite well of love.
+
+As I say yes to life, life says yes to me.
