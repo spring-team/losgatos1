@@ -597,3 +597,5 @@ I believe in you. You can do the thing!
 Deep at the center of my being is an infinite well of love.
 
 It’s only a thought, and a thought can be changed.
+
+As I say yes to life, life says yes to me.
