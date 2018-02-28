@@ -1,3 +1,5 @@
+// It’s only a thought, and a thought can be changed.
+
 package c.a;
 
 import org.junit.Test;
