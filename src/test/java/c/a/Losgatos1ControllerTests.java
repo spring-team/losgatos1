@@ -33,5 +33,3 @@ public class Losgatos1ControllerTests {
 	}
 
 }
-
-As I say yes to life, life says yes to me.
