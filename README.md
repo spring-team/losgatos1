@@ -687,3 +687,5 @@ It’s only a thought, and a thought can be changed.
 Deep at the center of my being is an infinite well of love.
 
 It’s only a thought, and a thought can be changed.
+
+You are the delta in what you do, not the things you did in the past
