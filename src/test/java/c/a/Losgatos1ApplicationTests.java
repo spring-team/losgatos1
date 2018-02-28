@@ -15,4 +15,3 @@ public class Losgatos1ApplicationTests {
 
 }
 
-As I say yes to life, life says yes to me.
