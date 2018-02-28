@@ -10,3 +10,5 @@ public class Losgatos1Application {
 		SpringApplication.run(Losgatos1Application.class, args);
 	}
 }
+
+As I say yes to life, life says yes to me.
