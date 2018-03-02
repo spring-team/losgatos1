@@ -1,5 +1,7 @@
 // I believe in you. You can do the thing!
 
+// I believe in you. You can do the thing!
+
 // You are the delta in what you do, not the things you did in the past
 
 // As I say yes to life, life says yes to me.
