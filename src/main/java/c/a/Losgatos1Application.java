@@ -1,3 +1,5 @@
+// As I say yes to life, life says yes to me.
+
 // I believe in you. You can do the thing!
 
 // Deep at the center of my being is an infinite well of love.
