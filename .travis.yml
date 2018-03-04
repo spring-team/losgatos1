@@ -1,7 +1,7 @@
 dist: trusty
 sudo: false
 language: java
-jdk:
+jdk: 
   - openjdk8
 notifications:
   email: false
