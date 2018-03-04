@@ -25,7 +25,7 @@ class Losgatos1Controller {
 
     @RequestMapping(method = GET, path = "/")
     public String root() {
-        return "App still running: Served from " + getClass().getName();
+        return "App still running - branch2, push2: Served from " + getClass().getName();
     }
 
     @RequestMapping(method = GET, path = "hello/{name}")
