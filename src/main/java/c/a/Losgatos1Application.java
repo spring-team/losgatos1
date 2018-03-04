@@ -1,5 +1,7 @@
 // You are the delta in what you do, not the things you did in the past
 
+// You are the delta in what you do, not the things you did in the past
+
 // I believe in you. You can do the thing!
 
 // You are the delta in what you do, not the things you did in the past
