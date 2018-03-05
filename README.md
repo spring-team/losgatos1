@@ -9,6 +9,7 @@ This project is a seed for creating [Spring Boot][boot] [REST][rest]
 service projects.
 
 ## Development
+This is an unimportant change I think
 
 This project is driven using [Maven][mvn].
 
