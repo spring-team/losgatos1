@@ -1,5 +1,7 @@
 // As I say yes to life, life says yes to me.
 
+// As I say yes to life, life says yes to me.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
