@@ -1,3 +1,5 @@
+// It’s only a thought, and a thought can be changed.
+
 // Deep at the center of my being is an infinite well of love.
 
 // Deep at the center of my being is an infinite well of love.
