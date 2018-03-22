@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 // It’s only a thought, and a thought can be changed.
 
 // I believe in you. You can do the thing!
