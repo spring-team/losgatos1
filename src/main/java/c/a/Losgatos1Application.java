@@ -1,3 +1,5 @@
+// You're good enough, you're smart enough, and doggone it, people like you.
+
 // As I say yes to life, life says yes to me.
 
 // You're good enough, you're smart enough, and doggone it, people like you.
