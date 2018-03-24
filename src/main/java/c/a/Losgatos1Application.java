@@ -1,6 +1,4 @@
 
-You're good enough, you're smart enough, and doggone it, people like you.
-
 package c.a;
 
 import org.springframework.boot.SpringApplication;
