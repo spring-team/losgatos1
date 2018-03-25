@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 // Deep at the center of my being is an infinite well of love.
 
 // You are the delta in what you do, not the things you did in the past
