@@ -1,5 +1,7 @@
 // I believe in you. You can do the thing!
 
+// I believe in you. You can do the thing!
+
 // Deep at the center of my being is an infinite well of love.
 
 // Deep at the center of my being is an infinite well of love.
