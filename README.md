@@ -842,3 +842,5 @@ Squirrel number 1522412445863 gnawed industriously
 Squirrel number 1522412518898 gnawed industriously
 
 Squirrel number 1522412604162 gnawed industriously
+
+You're good enough, you're smart enough, and doggone it, people like you.
