@@ -1,7 +1,3 @@
-// It’s only a thought, and a thought can be changed.
-
-// You're good enough, you're smart enough, and doggone it, people like you.
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -17,5 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Squirrel number 1522980194865 gnawed industriously
+// Squirrel number 1523003957797 gnawed industriously
 public class Thing {}
