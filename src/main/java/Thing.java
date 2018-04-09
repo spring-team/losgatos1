@@ -1,7 +1,3 @@
-// Deep at the center of my being is an infinite well of love.
-
-// Deep at the center of my being is an infinite well of love.
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -17,5 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Squirrel number 1523256118830 gnawed industriously
+// Squirrel number 1523258165493 gnawed industriously
 public class Thing {}
