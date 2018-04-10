@@ -1,5 +1,3 @@
-// You are the delta in what you do, not the things you did in the past
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -15,5 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Squirrel number 1523322305956 gnawed industriously
+// Squirrel number 1523334660962 gnawed industriously
 public class Thing {}
