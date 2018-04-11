@@ -1,3 +1,5 @@
+// You're good enough, you're smart enough, and doggone it, people like you.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
