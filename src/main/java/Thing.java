@@ -1,23 +1,3 @@
-// I believe in you. You can do the thing!
-
-// I come from the loving space of my heart, and I know that love opens all doors.
-
-// You are the delta in what you do, not the things you did in the past
-
-// You are the delta in what you do, not the things you did in the past
-
-// As I say yes to life, life says yes to me.
-
-// As I say yes to life, life says yes to me.
-
-// I believe in you. You can do the thing!
-
-// You are the delta in what you do, not the things you did in the past
-
-// You are the delta in what you do, not the things you did in the past
-
-// You're good enough, you're smart enough, and doggone it, people like you.
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -33,5 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Squirrel number 1523404901403 gnawed industriously
+// Squirrel number 1523658686233 gnawed industriously
 public class Thing {}
