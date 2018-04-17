@@ -1,7 +1,3 @@
-// As I say yes to life, life says yes to me.
-
-// I believe in you. You can do the thing!
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -17,5 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-// Squirrel number 1523932712778 gnawed industriously
+// Squirrel number 1523952538353 gnawed industriously
 public class Thing {}
