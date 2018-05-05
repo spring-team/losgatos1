@@ -1,3 +1,5 @@
+// I come from the loving space of my heart, and I know that love opens all doors.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
