@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 // Make new mistakes as fast as you can.
 
 // I believe in you. You can do the thing!
