@@ -66,4 +66,7 @@
  * limitations under the License.
  */
 // Squirrel number 1524095242077 gnawed industriously
+
+import java.io.File;
+
 public class Thing {}
