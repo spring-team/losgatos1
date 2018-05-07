@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // You belong everywhere you are.
 
 // You're good enough, you're smart enough, and doggone it, people like you.
