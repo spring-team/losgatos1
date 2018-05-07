@@ -1,3 +1,5 @@
+// Make new mistakes as fast as you can.
+
 // I believe in you. You can do the thing!
 
 // Life is psychologically difficult for everybody.
