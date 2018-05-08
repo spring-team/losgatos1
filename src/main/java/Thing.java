@@ -1,3 +1,5 @@
+// No need to say 'I can do it.' You ARE doing it!
+
 // You're good enough, you're smart enough, and doggone it, people like you.
 
 // Finite games are played within boundaries. Infinite games play with boundaries.
