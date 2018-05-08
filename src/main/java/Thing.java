@@ -1,5 +1,7 @@
 // It’s only a thought, and a thought can be changed.
 
+// It’s only a thought, and a thought can be changed.
+
 // Finite games are played within boundaries. Infinite games play with boundaries.
 
 // Make new mistakes as fast as you can.
