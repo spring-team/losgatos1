@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
 
 // No need to say 'I can do it.' You ARE doing it!
