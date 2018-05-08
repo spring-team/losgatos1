@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // Make new mistakes as fast as you can.
 
 // No need to say 'I can do it.' You ARE doing it!
