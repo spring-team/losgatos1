@@ -1036,3 +1036,5 @@ Squirrel number 1523932595664 gnawed industriously
 Squirrel number 1523952494914 gnawed industriously
 
 Squirrel number 1524095077236 gnawed industriously
+
+You are the delta in what you do, not the things you did in the past
