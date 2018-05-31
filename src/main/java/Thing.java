@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 // You belong everywhere you are.
 
 // Life is its own reason for being. It is beautiful to have a sense of beauty.
