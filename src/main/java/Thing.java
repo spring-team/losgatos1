@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // I believe in you. You can do the thing!
 
 // You belong everywhere you are.
