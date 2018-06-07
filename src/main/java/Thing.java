@@ -1,3 +1,5 @@
+// No need to say 'I can do it.' You ARE doing it!
+
 // Life is its own reason for being. It is beautiful to have a sense of beauty.
 
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
