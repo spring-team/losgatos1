@@ -1,3 +1,5 @@
+// You're good enough, you're smart enough, and doggone it, people like you.
+
 // No need to say 'I can do it.' You ARE doing it!
 
 // No need to say 'I can do it.' You ARE doing it!
